@@ -1,0 +1,26 @@
+/* styles.css */
+.hero-section {
+    background-image: url('https://via.placeholder.com/1200x600');
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+  }
+  
+  .about-section, .features-section, .contact-section {
+    padding: 80px 0;
+  }
+  
+  .features-section {
+    background-color: #f8f9fa;
+  }
+  
+  .contact-section {
+    background-color: #ececec;
+  }
+  
+  .footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
